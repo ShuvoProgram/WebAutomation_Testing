@@ -1,0 +1,222 @@
+{
+  "uid" : "96d4d4eff21a1019",
+  "name" : "Book View Testing",
+  "fullName" : "testclass.BookViewTesting.bookViewTesting",
+  "historyId" : "c16dc9b5478a3c7c2b9258374d9cbb85",
+  "time" : {
+    "start" : 1674960466598,
+    "stop" : 1674960474237,
+    "duration" : 7639
+  },
+  "description" : "Book View Testing --Allure",
+  "descriptionHtml" : "<p>Book View Testing --Allure</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674960465111,
+      "stop" : 1674960466593,
+      "duration" : 1482
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Book View Testing --Allure",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "194f71a8ac64a1f",
+      "name" : "Book View Page",
+      "source" : "194f71a8ac64a1f.png",
+      "type" : "image/png",
+      "size" : 591177
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674960474246,
+      "stop" : 1674960479600,
+      "duration" : 5354
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.BookViewTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.BookViewTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "bookViewTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.BookViewTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5384@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd4f8a9a0521896",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674954785789,
+        "stop" : 1674954793786,
+        "duration" : 7997
+      }
+    }, {
+      "uid" : "9307e9448a6f0e6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674884827153,
+        "stop" : 1674884890303,
+        "duration" : 63150
+      }
+    }, {
+      "uid" : "376c1f66cf8866d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674881516603,
+        "stop" : 1674881523864,
+        "duration" : 7261
+      }
+    }, {
+      "uid" : "80ccb2078d70fbb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674881338214,
+        "stop" : 1674881343422,
+        "duration" : 5208
+      }
+    }, {
+      "uid" : "2993337cacccfb92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674881051028,
+        "stop" : 1674881055657,
+        "duration" : 4629
+      }
+    }, {
+      "uid" : "3007065a8e08009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674880689657,
+        "stop" : 1674880693425,
+        "duration" : 3768
+      }
+    }, {
+      "uid" : "cd015eccdcd90915",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54080/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b0fe2801dd1ea607dc16b40f9376aa76",
+      "time" : {
+        "start" : 1674880452580,
+        "stop" : 1674880477189,
+        "duration" : 24609
+      }
+    }, {
+      "uid" : "df64dc0b98e1168b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53895}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53895/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 39127966a0c5d616a580bd2d273a1e65",
+      "time" : {
+        "start" : 1674879765455,
+        "stop" : 1674879788258,
+        "duration" : 22803
+      }
+    }, {
+      "uid" : "734bdeb6a577eb56",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60072/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e55e967b5eba73b7143e01c36bcb099b",
+      "time" : {
+        "start" : 1674844700430,
+        "stop" : 1674844723728,
+        "duration" : 23298
+      }
+    }, {
+      "uid" : "900ab97dc631554f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674844413920,
+        "stop" : 1674844452518,
+        "duration" : 38598
+      }
+    }, {
+      "uid" : "408c1161f24ce380",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59824}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59824/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d3fe14fe4d41bba90c017c8dc589152a",
+      "time" : {
+        "start" : 1674844318495,
+        "stop" : 1674844343328,
+        "duration" : 24833
+      }
+    }, {
+      "uid" : "419a292d0c10971f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //div[@id=\"product_cat_str:Dewyan Nasir Uddin\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59666}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59666/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9d4a0e902fd5f2addcd2d64fa089e42b",
+      "time" : {
+        "start" : 1674843156400,
+        "stop" : 1674843182812,
+        "duration" : 26412
+      }
+    }, {
+      "uid" : "423ff3331f344b4b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //body/div[2]/div[3]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[8]/div[1]/div[1]/a[1]/div[2]/img[1] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59517}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59517/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d4170968607ab82cbef337216ae9d3fb",
+      "time" : {
+        "start" : 1674842839538,
+        "stop" : 1674842865125,
+        "duration" : 25587
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96d4d4eff21a1019.json",
+  "parameterValues" : [ ]
+}

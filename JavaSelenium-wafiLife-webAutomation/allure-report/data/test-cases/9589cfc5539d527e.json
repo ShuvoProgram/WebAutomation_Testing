@@ -1,0 +1,128 @@
+{
+  "uid" : "9589cfc5539d527e",
+  "name" : "Signup Testing",
+  "fullName" : "testclass.SignUpTesting.signupTesting",
+  "historyId" : "b3b3e0fb0b28ab7d800edfd7276dbe59",
+  "time" : {
+    "start" : 1674960377148,
+    "stop" : 1674960384004,
+    "duration" : 6856
+  },
+  "description" : "Signup Testing --Allure",
+  "descriptionHtml" : "<p>Signup Testing --Allure</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674960375725,
+      "stop" : 1674960377142,
+      "duration" : 1417
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Signup Testing --Allure",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "148b3573dc50e772",
+      "name" : "Signup Page",
+      "source" : "148b3573dc50e772.png",
+      "type" : "image/png",
+      "size" : 50046
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674960384008,
+      "stop" : 1674960389394,
+      "duration" : 5386
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "signupTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5384@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "661175b88067fc98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674896049567,
+        "stop" : 1674896063490,
+        "duration" : 13923
+      }
+    }, {
+      "uid" : "51f802803ccf82b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674894937900,
+        "stop" : 1674894962786,
+        "duration" : 24886
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9589cfc5539d527e.json",
+  "parameterValues" : [ ]
+}

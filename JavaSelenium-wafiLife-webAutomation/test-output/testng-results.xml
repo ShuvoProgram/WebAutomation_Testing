@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T08:45:56 BDT" name="Suite" finished-at="2023-01-29T08:48:14 BDT" duration-ms="137560">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T08:45:56 BDT" name="Test" finished-at="2023-01-29T08:48:14 BDT" duration-ms="137560">
+      <class name="testclass.DropDownHighLowTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.DropDownHighLowTesting@7a6d7e92]" started-at="2023-01-29T08:46:56 BDT" name="setBrowser" finished-at="2023-01-29T08:46:57 BDT" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="dropDownTesting()[pri:0, instance:testclass.DropDownHighLowTesting@7a6d7e92]" started-at="2023-01-29T08:46:57 BDT" name="dropDownTesting" description="Drop Wdown Testing" finished-at="2023-01-29T08:47:06 BDT" duration-ms="8392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.DropDownHighLowTesting@7a6d7e92]" started-at="2023-01-29T08:47:06 BDT" name="quitBrowser" finished-at="2023-01-29T08:47:11 BDT" duration-ms="5490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.DropDownHighLowTesting -->
+      <class name="testclass.ScrollDownNextTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.ScrollDownNextTesting@60f00693]" started-at="2023-01-29T08:46:29 BDT" name="setBrowser" finished-at="2023-01-29T08:46:31 BDT" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="scrollDownAndNext()[pri:0, instance:testclass.ScrollDownNextTesting@60f00693]" started-at="2023-01-29T08:46:31 BDT" name="scrollDownAndNext" description="Scroll Testing" finished-at="2023-01-29T08:46:40 BDT" duration-ms="9191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownAndNext -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.ScrollDownNextTesting@60f00693]" started-at="2023-01-29T08:46:40 BDT" name="quitBrowser" finished-at="2023-01-29T08:46:45 BDT" duration-ms="5316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.ScrollDownNextTesting -->
+      <class name="testclass.HoverNavbarTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.HoverNavbarTesting@491b9b8]" started-at="2023-01-29T08:46:45 BDT" name="setBrowser" finished-at="2023-01-29T08:46:46 BDT" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="hoverTesting()[pri:0, instance:testclass.HoverNavbarTesting@491b9b8]" started-at="2023-01-29T08:46:46 BDT" name="hoverTesting" description="Hover Testing" finished-at="2023-01-29T08:46:50 BDT" duration-ms="3831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.HoverNavbarTesting@491b9b8]" started-at="2023-01-29T08:46:50 BDT" name="quitBrowser" finished-at="2023-01-29T08:46:56 BDT" duration-ms="5318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.HoverNavbarTesting -->
+      <class name="testclass.LoginTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.LoginTesting@4e5ed836]" started-at="2023-01-29T08:45:57 BDT" name="setBrowser" finished-at="2023-01-29T08:46:00 BDT" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="loginTesting()[pri:0, instance:testclass.LoginTesting@4e5ed836]" started-at="2023-01-29T08:46:00 BDT" name="loginTesting" description="LOgin Testing" finished-at="2023-01-29T08:46:10 BDT" duration-ms="9938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.LoginTesting@4e5ed836]" started-at="2023-01-29T08:46:10 BDT" name="quitBrowser" finished-at="2023-01-29T08:46:15 BDT" duration-ms="5363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.LoginTesting -->
+      <class name="testclass.SignUpTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.SignUpTesting@5884a914]" started-at="2023-01-29T08:46:15 BDT" name="setBrowser" finished-at="2023-01-29T08:46:17 BDT" duration-ms="1419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="signupTesting()[pri:0, instance:testclass.SignUpTesting@5884a914]" started-at="2023-01-29T08:46:17 BDT" name="signupTesting" description="Signup Testing" finished-at="2023-01-29T08:46:24 BDT" duration-ms="6858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.SignUpTesting@5884a914]" started-at="2023-01-29T08:46:24 BDT" name="quitBrowser" finished-at="2023-01-29T08:46:29 BDT" duration-ms="5387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.SignUpTesting -->
+      <class name="testclass.BookViewTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.BookViewTesting@6b09fb41]" started-at="2023-01-29T08:47:45 BDT" name="setBrowser" finished-at="2023-01-29T08:47:46 BDT" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="bookViewTesting()[pri:0, instance:testclass.BookViewTesting@6b09fb41]" started-at="2023-01-29T08:47:46 BDT" name="bookViewTesting" description="Book View Testing" finished-at="2023-01-29T08:47:54 BDT" duration-ms="7641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookViewTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.BookViewTesting@6b09fb41]" started-at="2023-01-29T08:47:54 BDT" name="quitBrowser" finished-at="2023-01-29T08:47:59 BDT" duration-ms="5357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.BookViewTesting -->
+      <class name="testclass.ViewCartTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.ViewCartTesting@4b520ea8]" started-at="2023-01-29T08:47:35 BDT" name="setBrowser" finished-at="2023-01-29T08:47:36 BDT" duration-ms="1392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="viewCartTesting()[pri:0, instance:testclass.ViewCartTesting@4b520ea8]" started-at="2023-01-29T08:47:36 BDT" name="viewCartTesting" description="Cart View Testing" finished-at="2023-01-29T08:47:39 BDT" duration-ms="3265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewCartTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.ViewCartTesting@4b520ea8]" started-at="2023-01-29T08:47:39 BDT" name="quitBrowser" finished-at="2023-01-29T08:47:45 BDT" duration-ms="5360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.ViewCartTesting -->
+      <class name="testclass.OrderInfoTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.OrderInfoTesting@97e93f1]" started-at="2023-01-29T08:47:11 BDT" name="setBrowser" finished-at="2023-01-29T08:47:13 BDT" duration-ms="1439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="orderInfoTesting()[pri:0, instance:testclass.OrderInfoTesting@97e93f1]" started-at="2023-01-29T08:47:13 BDT" name="orderInfoTesting" description="Order Info Testing" finished-at="2023-01-29T08:47:29 BDT" duration-ms="16624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderInfoTesting -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.OrderInfoTesting@97e93f1]" started-at="2023-01-29T08:47:29 BDT" name="quitBrowser" finished-at="2023-01-29T08:47:35 BDT" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.OrderInfoTesting -->
+      <class name="testclass.WritterClickTesting">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclass.WritterClickTesting@3932c79a]" started-at="2023-01-29T08:47:59 BDT" name="setBrowser" finished-at="2023-01-29T08:48:01 BDT" duration-ms="1524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="writterClick()[pri:0, instance:testclass.WritterClickTesting@3932c79a]" started-at="2023-01-29T08:48:01 BDT" name="writterClick" description="Writter Click Testing" finished-at="2023-01-29T08:48:09 BDT" duration-ms="8051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writterClick -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclass.WritterClickTesting@3932c79a]" started-at="2023-01-29T08:48:09 BDT" name="quitBrowser" finished-at="2023-01-29T08:48:14 BDT" duration-ms="5302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclass.WritterClickTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

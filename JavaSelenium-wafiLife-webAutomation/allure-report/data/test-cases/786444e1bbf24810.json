@@ -1,0 +1,91 @@
+{
+  "uid" : "786444e1bbf24810",
+  "name" : "dropDownTesting",
+  "fullName" : "testclass.DropDownHighLowTesting.dropDownTesting",
+  "historyId" : "95a0a84f077810b2dd10f01c9e101090",
+  "time" : {
+    "start" : 1674839691734,
+    "stop" : 1674839699469,
+    "duration" : 7735
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674839687522,
+      "stop" : 1674839691540,
+      "duration" : 4018
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674839699493,
+      "stop" : 1674839705182,
+      "duration" : 5689
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.DropDownHighLowTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.DropDownHighLowTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "dropDownTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.DropDownHighLowTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "1748@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "786444e1bbf24810.json",
+  "parameterValues" : [ ]
+}

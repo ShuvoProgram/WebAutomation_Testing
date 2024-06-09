@@ -1,0 +1,304 @@
+{
+  "uid" : "71f7824dcb3cfcb2",
+  "name" : "Hover Testing",
+  "fullName" : "testclass.HoverNavbarTesting.hoverTesting",
+  "historyId" : "b8943b93864a1e43049c1946d43d48ef",
+  "time" : {
+    "start" : 1674960406971,
+    "stop" : 1674960410795,
+    "duration" : 3824
+  },
+  "description" : "Hover Testing --Allure",
+  "descriptionHtml" : "<p>Hover Testing --Allure</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674960405546,
+      "stop" : 1674960406961,
+      "duration" : 1415
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Hover Testing --Allure",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "df97fae17926070a",
+      "name" : "Navbar Hover Page",
+      "source" : "df97fae17926070a.png",
+      "type" : "image/png",
+      "size" : 595546
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674960410799,
+      "stop" : 1674960416116,
+      "duration" : 5317
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.HoverNavbarTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.HoverNavbarTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "hoverTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.HoverNavbarTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5384@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e07141856c4502c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674930062145,
+        "stop" : 1674930065643,
+        "duration" : 3498
+      }
+    }, {
+      "uid" : "59941694729b1725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929779386,
+        "stop" : 1674929783676,
+        "duration" : 4290
+      }
+    }, {
+      "uid" : "1f42f6f33ae1215",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929703921,
+        "stop" : 1674929708519,
+        "duration" : 4598
+      }
+    }, {
+      "uid" : "450acc0841bc1a61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929617930,
+        "stop" : 1674929622095,
+        "duration" : 4165
+      }
+    }, {
+      "uid" : "4b8d9870a99c4ed8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929497958,
+        "stop" : 1674929501075,
+        "duration" : 3117
+      }
+    }, {
+      "uid" : "80ac5fc7410b03e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929390744,
+        "stop" : 1674929393948,
+        "duration" : 3204
+      }
+    }, {
+      "uid" : "683e404b90eafeb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929060417,
+        "stop" : 1674929069409,
+        "duration" : 8992
+      }
+    }, {
+      "uid" : "5bbfbadcf71f585c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674929028461,
+        "stop" : 1674929037571,
+        "duration" : 9110
+      }
+    }, {
+      "uid" : "13cb596eaa847a0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928714698,
+        "stop" : 1674928721118,
+        "duration" : 6420
+      }
+    }, {
+      "uid" : "8bb777d12595b04f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928621799,
+        "stop" : 1674928637051,
+        "duration" : 15252
+      }
+    }, {
+      "uid" : "7effae9e42a85e16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928554909,
+        "stop" : 1674928558791,
+        "duration" : 3882
+      }
+    }, {
+      "uid" : "ccf4ec7a29abc96a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928443309,
+        "stop" : 1674928447108,
+        "duration" : 3799
+      }
+    }, {
+      "uid" : "6957865bd67c7756",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928338156,
+        "stop" : 1674928342402,
+        "duration" : 4246
+      }
+    }, {
+      "uid" : "63b6e8f3847b420d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928307297,
+        "stop" : 1674928313380,
+        "duration" : 6083
+      }
+    }, {
+      "uid" : "24497f16ebb422d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674928252074,
+        "stop" : 1674928255512,
+        "duration" : 3438
+      }
+    }, {
+      "uid" : "63ec3590abc705fe",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674928090050,
+        "stop" : 1674928114356,
+        "duration" : 24306
+      }
+    }, {
+      "uid" : "3ecf40e2060f0fe9",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674927862401,
+        "stop" : 1674927885942,
+        "duration" : 23541
+      }
+    }, {
+      "uid" : "5ad0c803c9acfc84",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674927802397,
+        "stop" : 1674927826013,
+        "duration" : 23616
+      }
+    }, {
+      "uid" : "44d7f0fde30f327b",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674927430526,
+        "stop" : 1674927454163,
+        "duration" : 23637
+      }
+    }, {
+      "uid" : "8cb4aea6541738c0",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674927326914,
+        "stop" : 1674927354001,
+        "duration" : 27087
+      }
+    }, {
+      "uid" : "ea5cbfba4f0e88a4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674926851316,
+        "stop" : 1674926874941,
+        "duration" : 23625
+      }
+    }, {
+      "uid" : "188b6268afd00aff",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression //a[contains(text(),'হোম') and @href=\\\"https://www.wafilife.com/\\\"] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[contains(text(),'হোম') and @href=\\\"https://www.wafilife.com/\\\"]' is not a valid XPath expression.\n  (Session info: chrome=109.0.5414.76)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [0a8271044a8e24a4c94d039a1eb106ab, findElement {using=xpath, value=//a[contains(text(),'হোম') and @href=\\\"https://www.wafilife.com/\\\"]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65259}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65259/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 0a8271044a8e24a4c94d039a1eb106ab",
+      "time" : {
+        "start" : 1674926387334,
+        "stop" : 1674926391922,
+        "duration" : 4588
+      }
+    }, {
+      "uid" : "cff9da68f73b0d64",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: https://www.wafilife.com/ has no size and location\n  (Session info: chrome=109.0.5414.76)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6d22feeeaa1655df87b6d4736b2d2ed0, actions {actions=[org.openqa.selenium.interactions.Sequence@16a35bd]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64868}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64868/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6d22feeeaa1655df87b6d4736b2d2ed0",
+      "time" : {
+        "start" : 1674925584555,
+        "stop" : 1674925588188,
+        "duration" : 3633
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71f7824dcb3cfcb2.json",
+  "parameterValues" : [ ]
+}

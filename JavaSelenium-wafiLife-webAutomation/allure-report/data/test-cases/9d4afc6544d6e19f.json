@@ -1,0 +1,155 @@
+{
+  "uid" : "9d4afc6544d6e19f",
+  "name" : "LOgin Testing",
+  "fullName" : "testclass.LoginTesting.loginTesting",
+  "historyId" : "c996f3bb97dcbae96e62ac931ccff685",
+  "time" : {
+    "start" : 1674960360447,
+    "stop" : 1674960370337,
+    "duration" : 9890
+  },
+  "description" : "Login Testing --Allure",
+  "descriptionHtml" : "<p>Login Testing --Allure</p>\n",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674960357042,
+      "stop" : 1674960360288,
+      "duration" : 3246
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Login Testing --Allure",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4c026d542ef2798e",
+      "name" : "Login Page",
+      "source" : "4c026d542ef2798e.png",
+      "type" : "image/png",
+      "size" : 595422
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674960370353,
+      "stop" : 1674960375713,
+      "duration" : 5360
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.LoginTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.LoginTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.LoginTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5384@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a9c1682e415fcd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674921383142,
+        "stop" : 1674921396572,
+        "duration" : 13430
+      }
+    }, {
+      "uid" : "63ce90c4942a565d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674921309724,
+        "stop" : 1674921326407,
+        "duration" : 16683
+      }
+    }, {
+      "uid" : "7d030e8b72eb6cb8",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[contains(text(),'            লগইন / রেজিস্টার        ') and @title=\\\"আমার অ্যাকাউন্ট\\\" ] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62978}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62978/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 585952d4b369ee1c4e82698511857981",
+      "time" : {
+        "start" : 1674920971274,
+        "stop" : 1674920998904,
+        "duration" : 27630
+      }
+    }, {
+      "uid" : "a1cef9dd6f86387c",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[contains(text(),'            লগইন / রেজিস্টার        ') and @title=\\\"আমার অ্যাকাউন্ট\\\" ] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62925}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62925/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 382712cbea118270b6383ef5941eb210",
+      "time" : {
+        "start" : 1674920911271,
+        "stop" : 1674920937189,
+        "duration" : 25918
+      }
+    }, {
+      "uid" : "654c328ec39d525e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[contains(text(),'            লগইন / রেজিস্টার        ') and @title=\\\"আমার অ্যাকাউন্ট\\\" ] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.76, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62883}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62883/devtoo..., se:cdpVersion: 109.0.5414.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4c871c1e2a9479ed8807033a8c4d6c86",
+      "time" : {
+        "start" : 1674920856459,
+        "stop" : 1674920876857,
+        "duration" : 20398
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d4afc6544d6e19f.json",
+  "parameterValues" : [ ]
+}
