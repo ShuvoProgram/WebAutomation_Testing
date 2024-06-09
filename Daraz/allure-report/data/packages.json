@@ -1,0 +1,142 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "DarazHomePageTest",
+      "children" : [ {
+        "name" : "darazHome",
+        "uid" : "35e23b37a20943d4",
+        "parentUid" : "adb7b6907b9db557243f4c42d53a6bad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708784801756,
+          "stop" : 1708784922433,
+          "duration" : 120677
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "adb7b6907b9db557243f4c42d53a6bad"
+    }, {
+      "name" : "DarazLoginPageTest",
+      "children" : [ {
+        "name" : "testLoginInvalidData",
+        "uid" : "9595361252108e79",
+        "parentUid" : "b1c88ae642fa8ddb00056b081b928d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708784803426,
+          "stop" : 1708784848525,
+          "duration" : 45099
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLoginInvalidData",
+        "uid" : "32f302cfeb2f4da3",
+        "parentUid" : "b1c88ae642fa8ddb00056b081b928d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709131144418,
+          "stop" : 1709131173153,
+          "duration" : 28735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "123456789", "password", "Please enter a valid phone number." ]
+      }, {
+        "name" : "testLoginInvalidData",
+        "uid" : "6c89d260091c01ae",
+        "parentUid" : "b1c88ae642fa8ddb00056b081b928d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709131174766,
+          "stop" : 1709131200168,
+          "duration" : 25402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "abc@gmail.com", "9999999999", "Incorrect username or password." ]
+      }, {
+        "name" : "testLoginInvalidData",
+        "uid" : "5a89e9fd43664c72",
+        "parentUid" : "b1c88ae642fa8ddb00056b081b928d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709131201460,
+          "stop" : 1709131232266,
+          "duration" : 30806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "96587456222", "......987456", "Please enter a valid phone number." ]
+      }, {
+        "name" : "testLoginInvalidData",
+        "uid" : "3be9428ebbab3108",
+        "parentUid" : "b1c88ae642fa8ddb00056b081b928d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1709131233568,
+          "stop" : 1709131260815,
+          "duration" : 27247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "iffat@gmsil.com", "passpasspass", "Incorrect username or password." ]
+      } ],
+      "uid" : "b1c88ae642fa8ddb00056b081b928d75"
+    }, {
+      "name" : "DarazHelpCentrePageTest",
+      "children" : [ {
+        "name" : "testHelpCenter",
+        "uid" : "5eaf78e81f6836bf",
+        "parentUid" : "45fe659fc68ad0eb83fe2b5ca497c753",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708784806782,
+          "stop" : 1708784811486,
+          "duration" : 4704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "45fe659fc68ad0eb83fe2b5ca497c753"
+    }, {
+      "name" : "DarazSignUpPageTest",
+      "children" : [ {
+        "name" : "clickSignUpBlandData",
+        "uid" : "1a06fd1b8f2b06bf",
+        "parentUid" : "add092f9ef5e2cbd04bf3b8b0d245bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708784814291,
+          "stop" : 1708784825268,
+          "duration" : 10977
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validDataSignUp",
+        "uid" : "3512c832f5ba0bd5",
+        "parentUid" : "add092f9ef5e2cbd04bf3b8b0d245bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708784827203,
+          "stop" : 1708784852426,
+          "duration" : 25223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "add092f9ef5e2cbd04bf3b8b0d245bd2"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}
