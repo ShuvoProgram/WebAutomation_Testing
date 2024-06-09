@@ -1,0 +1,91 @@
+{
+  "uid" : "fdc05498e5492a4b",
+  "name" : "writerSelectDropDown",
+  "fullName" : "testclass.WriterSelectDropdownTesting.writerSelectDropDown",
+  "historyId" : "d8487de4ea811cffd0f72335eb83c35b",
+  "time" : {
+    "start" : 1674042353371,
+    "stop" : 1674042372591,
+    "duration" : 19220
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674042349307,
+      "stop" : 1674042353138,
+      "duration" : 3831
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674042372624,
+      "stop" : 1674042378015,
+      "duration" : 5391
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "writerSelectDropDown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5172@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdc05498e5492a4b.json",
+  "parameterValues" : [ ]
+}

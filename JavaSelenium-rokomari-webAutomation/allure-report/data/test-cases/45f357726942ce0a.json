@@ -1,0 +1,91 @@
+{
+  "uid" : "45f357726942ce0a",
+  "name" : "scrollTesting",
+  "fullName" : "testclass.ScrollTesting.scrollTesting",
+  "historyId" : "a34a1efaf84867cd9f50cb4efb7e036d",
+  "time" : {
+    "start" : 1674063684178,
+    "stop" : 1674063720236,
+    "duration" : 36058
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674063680181,
+      "stop" : 1674063683942,
+      "duration" : 3761
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674063720258,
+      "stop" : 1674063725601,
+      "duration" : 5343
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.ScrollTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.ScrollTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "scrollTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.ScrollTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "14304@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45f357726942ce0a.json",
+  "parameterValues" : [ ]
+}

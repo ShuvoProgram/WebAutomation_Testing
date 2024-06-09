@@ -1,0 +1,478 @@
+{
+  "uid" : "6b211686db0f10a0",
+  "name" : "writerSelectDropDown",
+  "fullName" : "testclass.WriterSelectDropdownTesting.writerSelectDropDown",
+  "historyId" : "d8487de4ea811cffd0f72335eb83c35b",
+  "time" : {
+    "start" : 1674416180860,
+    "stop" : 1674416208562,
+    "duration" : 27702
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674416179459,
+      "stop" : 1674416180854,
+      "duration" : 1395
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674416208566,
+      "stop" : 1674416213957,
+      "duration" : 5391
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "writerSelectDropDown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.WriterSelectDropdownTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "5500@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "17ebfc34c3ff39e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674414230466,
+        "stop" : 1674414259518,
+        "duration" : 29052
+      }
+    }, {
+      "uid" : "27768f26ae2b1553",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 799)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [eb06c453c274c4e61ea936385002ffaa, clickElement {id=5e08c410-3d94-4703-abe0-d6a6bb697ed9}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49385}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49385/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (eb06c453c274c4e61ea936385002ffaa)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস')]]\nSession ID: eb06c453c274c4e61ea936385002ffaa",
+      "time" : {
+        "start" : 1674317599483,
+        "stop" : 1674317630323,
+        "duration" : 30840
+      }
+    }, {
+      "uid" : "cf4f82eea1a95431",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 799)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [39d5ba6266174e8a469b43f3a027b3a5, clickElement {id=4257368a-8c2f-45c8-a4cc-3c4430f8bd3a}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49175}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49175/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (39d5ba6266174e8a469b43f3a027b3a5)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস')]]\nSession ID: 39d5ba6266174e8a469b43f3a027b3a5",
+      "time" : {
+        "start" : 1674317302519,
+        "stop" : 1674317335299,
+        "duration" : 32780
+      }
+    }, {
+      "uid" : "23baa7021b1f0e0b",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 807)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c6d4b1cd65e362d7234251908dbb42f2, clickElement {id=9ed6fecc-1447-46f1-8815-c3eca817657f}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65420}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65420/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (c6d4b1cd65e362d7234251908dbb42f2)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস')]]\nSession ID: c6d4b1cd65e362d7234251908dbb42f2",
+      "time" : {
+        "start" : 1674317140103,
+        "stop" : 1674317174794,
+        "duration" : 34691
+      }
+    }, {
+      "uid" : "361ad4215d60d174",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65288}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65288/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 835c48c15c3adf3203d116a60543bc04",
+      "time" : {
+        "start" : 1674316998780,
+        "stop" : 1674317041950,
+        "duration" : 43170
+      }
+    }, {
+      "uid" : "266a1b194510b7f9",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [ee32285fe98e187e9e7ea816cbb1f4d6, clickElement {id=d61f598e-6332-448e-9b29-1c0226cfec77}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65058}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65058/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (ee32285fe98e187e9e7ea816cbb1f4d6)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস ')]]\nSession ID: ee32285fe98e187e9e7ea816cbb1f4d6",
+      "time" : {
+        "start" : 1674316649408,
+        "stop" : 1674316686399,
+        "duration" : 36991
+      }
+    }, {
+      "uid" : "533b8999996b052c",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 807)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [06dfcf3e89287889dcc9071441c19472, clickElement {id=0329ef9b-3f45-4b1c-a361-1cbff99c8df2}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64933}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64933/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (06dfcf3e89287889dcc9071441c19472)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস ')]]\nSession ID: 06dfcf3e89287889dcc9071441c19472",
+      "time" : {
+        "start" : 1674316522337,
+        "stop" : 1674316552928,
+        "duration" : 30591
+      }
+    }, {
+      "uid" : "cd2ca9949f40acd3",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f2d9b5372066147f7fab9e4141e76e03, clickElement {id=fec92206-fecf-473f-95ed-b200db9c690a}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64743}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64743/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (f2d9b5372066147f7fab9e4141e76e03)] -> xpath: //label[contains(text(),'সমকালীন উপন্যাস ')]]\nSession ID: f2d9b5372066147f7fab9e4141e76e03",
+      "time" : {
+        "start" : 1674316377043,
+        "stop" : 1674316408066,
+        "duration" : 31023
+      }
+    }, {
+      "uid" : "3c2e436a82fd111b",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=109.0.5414.75)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [7ea9dcd4f655b05c7fbeebe87faf38b6, clickElement {id=0d92fb69-416f-4a9d-b960-fc5f8859676c}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64451}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64451/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (7ea9dcd4f655b05c7fbeebe87faf38b6)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: 7ea9dcd4f655b05c7fbeebe87faf38b6",
+      "time" : {
+        "start" : 1674316018287,
+        "stop" : 1674316049109,
+        "duration" : 30822
+      }
+    }, {
+      "uid" : "4b9bb9813a868785",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6c63cb936706638b7740b43fb3fa59ed, clickElement {id=dd235af0-2626-47d2-8c2d-c91f13348c38}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:64926}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64926/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (6c63cb936706638b7740b43fb3fa59ed)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: 6c63cb936706638b7740b43fb3fa59ed",
+      "time" : {
+        "start" : 1674111264905,
+        "stop" : 1674111290815,
+        "duration" : 25910
+      }
+    }, {
+      "uid" : "cdff8bff13f840f6",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60840}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60840/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 74e81400a6ddcd840415e4fdbef44137",
+      "time" : {
+        "start" : 1674065922527,
+        "stop" : 1674065958929,
+        "duration" : 36402
+      }
+    }, {
+      "uid" : "12249c8d480e0c21",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 799)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [162ab538109c34d55a235d197517a2a1, clickElement {id=2ae51d49-f8ff-4923-b21b-a24e82964686}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60649}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60649/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (162ab538109c34d55a235d197517a2a1)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: 162ab538109c34d55a235d197517a2a1",
+      "time" : {
+        "start" : 1674065677037,
+        "stop" : 1674065700718,
+        "duration" : 23681
+      }
+    }, {
+      "uid" : "f5de1d4e306b0da2",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60551}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60551/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fe876a71129b458ff2610bc03cf21d6c",
+      "time" : {
+        "start" : 1674065617626,
+        "stop" : 1674065653521,
+        "duration" : 35895
+      }
+    }, {
+      "uid" : "3045c3122192dc5c",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [31ab52a6815d8d319df7dbde595215e8, clickElement {id=cf2a7bcd-c745-4d9a-a4ab-c122a32fbc61}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:60157}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60157/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (31ab52a6815d8d319df7dbde595215e8)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: 31ab52a6815d8d319df7dbde595215e8",
+      "time" : {
+        "start" : 1674064916050,
+        "stop" : 1674064939904,
+        "duration" : 23854
+      }
+    }, {
+      "uid" : "21de2c22efd10453",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 807)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [ae3aeaf31e13d58c0eb4d763cb75d46d, clickElement {id=4f9c0140-1da1-4654-b209-a76fe0eeba54}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51712/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (ae3aeaf31e13d58c0eb4d763cb75d46d)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: ae3aeaf31e13d58c0eb4d763cb75d46d",
+      "time" : {
+        "start" : 1674056404207,
+        "stop" : 1674056443890,
+        "duration" : 39683
+      }
+    }, {
+      "uid" : "3ef24fcab794d3f1",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 807)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [3d1969cff732d81a8ad667e2fb09f012, clickElement {id=84170409-401a-452f-86a4-8853c63bb6f0}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51612}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51612/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (3d1969cff732d81a8ad667e2fb09f012)] -> xpath: //label[@for=\"rok-filter-categoryIds-677\"]]\nSession ID: 3d1969cff732d81a8ad667e2fb09f012",
+      "time" : {
+        "start" : 1674056333236,
+        "stop" : 1674056359645,
+        "duration" : 26409
+      }
+    }, {
+      "uid" : "9619c8e5925c7806",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51395}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51395/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5b3f5a07c6d6a0564bf094646f0ddcab",
+      "time" : {
+        "start" : 1674056129403,
+        "stop" : 1674056188204,
+        "duration" : 58801
+      }
+    }, {
+      "uid" : "2d339d5c07fa7ca4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50992}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50992/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e050504079708a8403267b6593b8b9c9",
+      "time" : {
+        "start" : 1674055419229,
+        "stop" : 1674055466653,
+        "duration" : 47424
+      }
+    }, {
+      "uid" : "a76beb9318e30475",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50850}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50850/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b2ecf6d3ba8d90df745af68017d9a781",
+      "time" : {
+        "start" : 1674055231498,
+        "stop" : 1674055286369,
+        "duration" : 54871
+      }
+    }, {
+      "uid" : "13c94000ca26847",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50767}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50767/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: a7c4313a13024398b1f59c25025d7f95",
+      "time" : {
+        "start" : 1674055167650,
+        "stop" : 1674055205640,
+        "duration" : 37990
+      }
+    }, {
+      "uid" : "fc222aae191e40b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674055059852,
+        "stop" : 1674055131145,
+        "duration" : 71293
+      }
+    }, {
+      "uid" : "8ed2be1f48d4dde4",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50458}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50458/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ed26c0e680896921de9d8d2cdbd7e7a9",
+      "time" : {
+        "start" : 1674054974505,
+        "stop" : 1674055026321,
+        "duration" : 51816
+      }
+    }, {
+      "uid" : "edcfa9365b6fc98f",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50210}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50210/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4b31f80e810e11bbef1723b6291c8319",
+      "time" : {
+        "start" : 1674054656426,
+        "stop" : 1674054698649,
+        "duration" : 42223
+      }
+    }, {
+      "uid" : "a31985ce713be236",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href=\"/book/author/1?ref=mm_p0\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49903}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49903/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2e41288deeb233217a11df2e72156aca",
+      "time" : {
+        "start" : 1674054552606,
+        "stop" : 1674054625706,
+        "duration" : 73100
+      }
+    }, {
+      "uid" : "bcf0c8992891fe6b",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 807)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [341d503bba20cdda216ac18b3b476a76, clickElement {id=c6ed3225-5af4-4509-9aa1-58457bb3a46b}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49711}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49711/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (341d503bba20cdda216ac18b3b476a76)] -> xpath: //label[@for='rok-filter-categoryIds-677']]\nSession ID: 341d503bba20cdda216ac18b3b476a76",
+      "time" : {
+        "start" : 1674054243891,
+        "stop" : 1674054297751,
+        "duration" : 53860
+      }
+    }, {
+      "uid" : "9b91dcf9e8bcc240",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [12e889ad0029df7d7c55d5c584f5a478, clickElement {id=d3ac73e2-4ca3-42e2-928b-a9541afcdfa1}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49161/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (12e889ad0029df7d7c55d5c584f5a478)] -> xpath: //label[@for='rok-filter-categoryIds-677']]\nSession ID: 12e889ad0029df7d7c55d5c584f5a478",
+      "time" : {
+        "start" : 1674053238338,
+        "stop" : 1674053257094,
+        "duration" : 18756
+      }
+    }, {
+      "uid" : "659826a44a73df04",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element is not clickable at point (200, 805)\n  (Session info: chrome=108.0.5359.126)\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [0f3379c44fe5ca01368639bba317e5c0, clickElement {id=40ba0953-9bb5-499a-b9c6-b5163dd4c7f1}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65456}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65456/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (0f3379c44fe5ca01368639bba317e5c0)] -> xpath: //label[@for='rok-filter-categoryIds-677']]\nSession ID: 0f3379c44fe5ca01368639bba317e5c0",
+      "time" : {
+        "start" : 1674053192277,
+        "stop" : 1674053218561,
+        "duration" : 26284
+      }
+    }, {
+      "uid" : "1876c84d81d7bc91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674047046817,
+        "stop" : 1674047072374,
+        "duration" : 25557
+      }
+    }, {
+      "uid" : "41d720b118ca0c50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674046411755,
+        "stop" : 1674046443329,
+        "duration" : 31574
+      }
+    }, {
+      "uid" : "9263d0c9f1d9d258",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674046003353,
+        "stop" : 1674046027468,
+        "duration" : 24115
+      }
+    }, {
+      "uid" : "dc69c7c9f9ce2b04",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression  because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '' is not a valid XPath expression.\n  (Session info: chrome=108.0.5359.126)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6e6d862df4b5fee729a8ab17980d2921, findElement {using=xpath, value=}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63869}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63869/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6e6d862df4b5fee729a8ab17980d2921",
+      "time" : {
+        "start" : 1674045948710,
+        "stop" : 1674045958962,
+        "duration" : 10252
+      }
+    }, {
+      "uid" : "4c6041331692f68b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674043572835,
+        "stop" : 1674043591752,
+        "duration" : 18917
+      }
+    }, {
+      "uid" : "aba8a29d7b2f9b05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674043488420,
+        "stop" : 1674043501846,
+        "duration" : 13426
+      }
+    }, {
+      "uid" : "76545f8da505348e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674043455865,
+        "stop" : 1674043467873,
+        "duration" : 12008
+      }
+    }, {
+      "uid" : "d29e7365125f765e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674043411852,
+        "stop" : 1674043431830,
+        "duration" : 19978
+      }
+    }, {
+      "uid" : "fdc05498e5492a4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674042353371,
+        "stop" : 1674042372591,
+        "duration" : 19220
+      }
+    }, {
+      "uid" : "65bd9e9b5c576ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674042191934,
+        "stop" : 1674042212090,
+        "duration" : 20156
+      }
+    }, {
+      "uid" : "cada4b686a2771f3",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression //a[@id=\\\"js--authors\\\"] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[@id=\\\"js--authors\\\"]' is not a valid XPath expression.\n  (Session info: chrome=108.0.5359.126)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [87e5515887a91c594a8892801fdbfc55, findElement {using=xpath, value=//a[@id=\\\"js--authors\\\"]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56782}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56782/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 87e5515887a91c594a8892801fdbfc55",
+      "time" : {
+        "start" : 1674041936431,
+        "stop" : 1674041995071,
+        "duration" : 58640
+      }
+    }, {
+      "uid" : "606f17daa1457706",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: Unable to locate an element with the xpath expression //a[@id=\\\"js--authors\\\"] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[@id=\\\"js--authors\\\"]' is not a valid XPath expression.\n  (Session info: chrome=108.0.5359.126)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f080b4144133f6635acaf10e568531fc, findElement {using=xpath, value=//a[@id=\\\"js--authors\\\"]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.126, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54724}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54724/devtoo..., se:cdpVersion: 108.0.5359.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f080b4144133f6635acaf10e568531fc",
+      "time" : {
+        "start" : 1674036159618,
+        "stop" : 1674036166479,
+        "duration" : 6861
+      }
+    }, {
+      "uid" : "fa2523f7afb6c891",
+      "status" : "broken",
+      "statusDetails" : "Element should have been \"select\" but was \"a\"\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1674035958307,
+        "stop" : 1674035965071,
+        "duration" : 6764
+      }
+    }, {
+      "uid" : "ea7d693f7cd7d5c5",
+      "status" : "broken",
+      "statusDetails" : "Element should have been \"select\" but was \"a\"\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1674035898675,
+        "stop" : 1674035905073,
+        "duration" : 6398
+      }
+    }, {
+      "uid" : "837f7673faa48e63",
+      "status" : "broken",
+      "statusDetails" : "Element should have been \"select\" but was \"a\"\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1674035826824,
+        "stop" : 1674035835628,
+        "duration" : 8804
+      }
+    }, {
+      "uid" : "a84b2c41159a40d3",
+      "status" : "broken",
+      "statusDetails" : "Element should have been \"select\" but was \"a\"\nBuild info: version: '4.6.0', revision: '79f1c02ae20'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1674035658245,
+        "stop" : 1674035793336,
+        "duration" : 135091
+      }
+    }, {
+      "uid" : "f1f72971ca33ed68",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //a[@id=\"js--authors\"] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674035554041,
+        "stop" : 1674035574617,
+        "duration" : 20576
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b211686db0f10a0.json",
+  "parameterValues" : [ ]
+}

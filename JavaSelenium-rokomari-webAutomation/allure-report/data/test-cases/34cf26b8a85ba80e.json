@@ -1,0 +1,91 @@
+{
+  "uid" : "34cf26b8a85ba80e",
+  "name" : "cardIconTesting",
+  "fullName" : "testclass.CardIconTesting.cardIconTesting",
+  "historyId" : "4a6e705f9d75193684889345fabc7666",
+  "time" : {
+    "start" : 1674406647349,
+    "stop" : 1674406672988,
+    "duration" : 25639
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674406643455,
+      "stop" : 1674406647137,
+      "duration" : 3682
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674406673010,
+      "stop" : 1674406678556,
+      "duration" : 5546
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.CardIconTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.CardIconTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "cardIconTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.CardIconTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "10948@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34cf26b8a85ba80e.json",
+  "parameterValues" : [ ]
+}

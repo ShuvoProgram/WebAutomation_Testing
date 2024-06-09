@@ -1,0 +1,193 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "testclass.ScrollTesting",
+        "children" : [ {
+          "name" : "scrollTesting",
+          "uid" : "27ff6861f5f25d46",
+          "parentUid" : "eecfb7019c0110e87a92612ab8e5af3d",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674319752445,
+            "stop" : 1674319787912,
+            "duration" : 35467
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eecfb7019c0110e87a92612ab8e5af3d"
+      }, {
+        "name" : "testclass.AddToCardBookTesting",
+        "children" : [ {
+          "name" : "addBookCard",
+          "uid" : "6652b51413e5d48e",
+          "parentUid" : "0327b7cf2f2f3b1cdd851034ca3524c6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674327417448,
+            "stop" : 1674327452646,
+            "duration" : 35198
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0327b7cf2f2f3b1cdd851034ca3524c6"
+      }, {
+        "name" : "testclass.CardIconTesting",
+        "children" : [ {
+          "name" : "quitBrowser",
+          "uid" : "27148dc9a1d51669",
+          "parentUid" : "c1e35ac5c125415529db0947e995ae11",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674384232248,
+            "stop" : 1674384232251,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c1e35ac5c125415529db0947e995ae11"
+      }, {
+        "name" : "testclass.ScrollAndNextTesting",
+        "children" : [ {
+          "name" : "Writer Page Testing",
+          "uid" : "badba94a6ccb06dc",
+          "parentUid" : "1883f9ffe43a0f912605772816cf6ced",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674467131380,
+            "stop" : 1674467172385,
+            "duration" : 41005
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1883f9ffe43a0f912605772816cf6ced"
+      }, {
+        "name" : "testclass.LoginTesting",
+        "children" : [ {
+          "name" : "Login Testing",
+          "uid" : "e05b1b44d32fae3a",
+          "parentUid" : "ba24018c1029d554ec8009adea31206d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674470739217,
+            "stop" : 1674470763040,
+            "duration" : 23823
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ba24018c1029d554ec8009adea31206d"
+      }, {
+        "name" : "testclass.SignUpTesting",
+        "children" : [ {
+          "name" : "quitBrowser",
+          "uid" : "c4c072423de3ccc0",
+          "parentUid" : "23921b82d71049bcdf831e83d6d1adb3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674471511473,
+            "stop" : 1674471511479,
+            "duration" : 6
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Signup Testing",
+          "uid" : "c48f694fb0db56ef",
+          "parentUid" : "23921b82d71049bcdf831e83d6d1adb3",
+          "status" : "broken",
+          "time" : {
+            "start" : 1674473761087,
+            "stop" : 1674473779816,
+            "duration" : 18729
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "23921b82d71049bcdf831e83d6d1adb3"
+      }, {
+        "name" : "testclass.SignupTesting",
+        "children" : [ {
+          "name" : "signupTesting",
+          "uid" : "5f7b12cb19cf233c",
+          "parentUid" : "170821642a21fdd25e425693f6fa56ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674476522623,
+            "stop" : 1674476555655,
+            "duration" : 33032
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "170821642a21fdd25e425693f6fa56ff"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  }, {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "testclass.AddToCardBookTesting",
+        "children" : [ {
+          "name" : "Book add into card Testing",
+          "uid" : "8bb1cacf1c2b1002",
+          "parentUid" : "ce2d05c588e205f0607986cbccca2043",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674416090679,
+            "stop" : 1674416116058,
+            "duration" : 25379
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ce2d05c588e205f0607986cbccca2043"
+      }, {
+        "name" : "testclass.CardIconTesting",
+        "children" : [ {
+          "name" : "Card Icon Testing",
+          "uid" : "b40822e3e4ba17dd",
+          "parentUid" : "50267444cd511d1cbaa3519986f98225",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674416149144,
+            "stop" : 1674416174125,
+            "duration" : 24981
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "50267444cd511d1cbaa3519986f98225"
+      }, {
+        "name" : "testclass.WriterSelectDropdownTesting",
+        "children" : [ {
+          "name" : "writerSelectDropDown",
+          "uid" : "6b211686db0f10a0",
+          "parentUid" : "402571805f163fd9a6d77ed023a3d7a3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1674416180860,
+            "stop" : 1674416208562,
+            "duration" : 27702
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "402571805f163fd9a6d77ed023a3d7a3"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

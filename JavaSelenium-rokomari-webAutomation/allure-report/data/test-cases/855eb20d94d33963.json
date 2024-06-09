@@ -1,0 +1,91 @@
+{
+  "uid" : "855eb20d94d33963",
+  "name" : "signupBaseUrl",
+  "fullName" : "testclass.SignUpTesting.signupBaseUrl",
+  "historyId" : "6d6e06c2ed6744fdc14ecd1e515229d9",
+  "time" : {
+    "start" : 1674017330546,
+    "stop" : 1674017360322,
+    "duration" : 29776
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674017316955,
+      "stop" : 1674017330114,
+      "duration" : 13159
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674017360386,
+      "stop" : 1674017361378,
+      "duration" : 992
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "signupBaseUrl"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.SignUpTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "1072@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "855eb20d94d33963.json",
+  "parameterValues" : [ ]
+}

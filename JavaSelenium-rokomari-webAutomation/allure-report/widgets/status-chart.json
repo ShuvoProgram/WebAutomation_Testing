@@ -1,0 +1,111 @@
+[ {
+  "uid" : "c4c072423de3ccc0",
+  "name" : "quitBrowser",
+  "time" : {
+    "start" : 1674471511473,
+    "stop" : 1674471511479,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e05b1b44d32fae3a",
+  "name" : "Login Testing",
+  "time" : {
+    "start" : 1674470739217,
+    "stop" : 1674470763040,
+    "duration" : 23823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27148dc9a1d51669",
+  "name" : "quitBrowser",
+  "time" : {
+    "start" : 1674384232248,
+    "stop" : 1674384232251,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "27ff6861f5f25d46",
+  "name" : "scrollTesting",
+  "time" : {
+    "start" : 1674319752445,
+    "stop" : 1674319787912,
+    "duration" : 35467
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb1cacf1c2b1002",
+  "name" : "Book add into card Testing",
+  "time" : {
+    "start" : 1674416090679,
+    "stop" : 1674416116058,
+    "duration" : 25379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "badba94a6ccb06dc",
+  "name" : "Writer Page Testing",
+  "time" : {
+    "start" : 1674467131380,
+    "stop" : 1674467172385,
+    "duration" : 41005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b211686db0f10a0",
+  "name" : "writerSelectDropDown",
+  "time" : {
+    "start" : 1674416180860,
+    "stop" : 1674416208562,
+    "duration" : 27702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c48f694fb0db56ef",
+  "name" : "Signup Testing",
+  "time" : {
+    "start" : 1674473761087,
+    "stop" : 1674473779816,
+    "duration" : 18729
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6652b51413e5d48e",
+  "name" : "addBookCard",
+  "time" : {
+    "start" : 1674327417448,
+    "stop" : 1674327452646,
+    "duration" : 35198
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b40822e3e4ba17dd",
+  "name" : "Card Icon Testing",
+  "time" : {
+    "start" : 1674416149144,
+    "stop" : 1674416174125,
+    "duration" : 24981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f7b12cb19cf233c",
+  "name" : "signupTesting",
+  "time" : {
+    "start" : 1674476522623,
+    "stop" : 1674476555655,
+    "duration" : 33032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

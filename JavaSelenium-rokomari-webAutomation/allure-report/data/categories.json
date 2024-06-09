@@ -1,0 +1,89 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //img[@src=\"https://ds.rokomari.store/rokomari110/people/2222ed505a94_1.jpg\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50525}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50525/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f7b1b2e87c5203f1c6e60d5a312da283",
+      "children" : [ {
+        "name" : "scrollTesting",
+        "uid" : "27ff6861f5f25d46",
+        "parentUid" : "e9c039f930c2de5f18414baf6d21b8bc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674319752445,
+          "stop" : 1674319787912,
+          "duration" : 35467
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e9c039f930c2de5f18414baf6d21b8bc"
+    }, {
+      "name" : "Expected condition failed: waiting for presence of element located by: By.xpath: //img[@alt=\"Ek Dozen Ekjon\"] (tried for 20 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "addBookCard",
+        "uid" : "6652b51413e5d48e",
+        "parentUid" : "98b5b69e0c8d61f239f339f728dfe977",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674327417448,
+          "stop" : 1674327452646,
+          "duration" : 35198
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98b5b69e0c8d61f239f339f728dfe977"
+    }, {
+      "name" : "Timed out waiting for driver server to stop.\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e0470f4754ffd3a1a322f865fcd1216e, quit {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63112/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e0470f4754ffd3a1a322f865fcd1216e",
+      "children" : [ {
+        "name" : "quitBrowser",
+        "uid" : "27148dc9a1d51669",
+        "parentUid" : "dd3ec46a33b7170adb61ea8945208530",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674384232248,
+          "stop" : 1674384232251,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd3ec46a33b7170adb61ea8945208530"
+    }, {
+      "name" : "Timed out waiting for driver server to stop.\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [7355669d6343936eade9ad048d860b87, quit {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58072/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7355669d6343936eade9ad048d860b87",
+      "children" : [ {
+        "name" : "quitBrowser",
+        "uid" : "c4c072423de3ccc0",
+        "parentUid" : "9a7ea8b6c79202220e100baead03517d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674471511473,
+          "stop" : 1674471511479,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a7ea8b6c79202220e100baead03517d"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Sign Up Now!\"}\n  (Session info: chrome=109.0.5414.75)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [2cf818843d53ddab86056cb2b0262245, findElement {using=link text, value=Sign Up Now!}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58808/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2cf818843d53ddab86056cb2b0262245",
+      "children" : [ {
+        "name" : "Signup Testing",
+        "uid" : "c48f694fb0db56ef",
+        "parentUid" : "95ec3d63feaab1a131f604ec87c1a5b8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674473761087,
+          "stop" : 1674473779816,
+          "duration" : 18729
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95ec3d63feaab1a131f604ec87c1a5b8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

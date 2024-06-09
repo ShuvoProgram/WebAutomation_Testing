@@ -1,0 +1,216 @@
+{
+  "bcc56afb1a6a7f4fbf088344b62d9d77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4c072423de3ccc0",
+      "status" : "broken",
+      "statusDetails" : "Timed out waiting for driver server to stop.\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [7355669d6343936eade9ad048d860b87, quit {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58072/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7355669d6343936eade9ad048d860b87",
+      "time" : {
+        "start" : 1674471511473,
+        "stop" : 1674471511479,
+        "duration" : 6
+      }
+    } ]
+  },
+  "876ff00df72e594065d7b381f117f34a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6652b51413e5d48e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //img[@alt=\"Ek Dozen Ekjon\"] (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1674327417448,
+        "stop" : 1674327452646,
+        "duration" : 35198
+      }
+    } ]
+  },
+  "4a6e705f9d75193684889345fabc7666" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b40822e3e4ba17dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674416149144,
+        "stop" : 1674416174125,
+        "duration" : 24981
+      }
+    } ]
+  },
+  "29fef4cb810986b69854c0a5eb677deb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8bb1cacf1c2b1002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674416090679,
+        "stop" : 1674416116058,
+        "duration" : 25379
+      }
+    } ]
+  },
+  "58a683855717a45a73ade3394a1dc599" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27148dc9a1d51669",
+      "status" : "broken",
+      "statusDetails" : "Timed out waiting for driver server to stop.\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e0470f4754ffd3a1a322f865fcd1216e, quit {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:63112}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63112/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e0470f4754ffd3a1a322f865fcd1216e",
+      "time" : {
+        "start" : 1674384232248,
+        "stop" : 1674384232251,
+        "duration" : 3
+      }
+    } ]
+  },
+  "d8487de4ea811cffd0f72335eb83c35b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b211686db0f10a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674416180860,
+        "stop" : 1674416208562,
+        "duration" : 27702
+      }
+    } ]
+  },
+  "6d6e06c2ed6744fdc14ecd1e515229d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c48f694fb0db56ef",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Sign Up Now!\"}\n  (Session info: chrome=109.0.5414.75)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [2cf818843d53ddab86056cb2b0262245, findElement {using=link text, value=Sign Up Now!}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:58808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58808/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2cf818843d53ddab86056cb2b0262245",
+      "time" : {
+        "start" : 1674473761087,
+        "stop" : 1674473779816,
+        "duration" : 18729
+      }
+    } ]
+  },
+  "4874427c9453f653a3978f9d3795bb67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f7b12cb19cf233c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674476522623,
+        "stop" : 1674476555655,
+        "duration" : 33032
+      }
+    } ]
+  },
+  "c2620ee8cc214d49d773301b2f69b369" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "badba94a6ccb06dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674467131380,
+        "stop" : 1674467172385,
+        "duration" : 41005
+      }
+    } ]
+  },
+  "c996f3bb97dcbae96e62ac931ccff685" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e05b1b44d32fae3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1674470739217,
+        "stop" : 1674470763040,
+        "duration" : 23823
+      }
+    } ]
+  },
+  "a34a1efaf84867cd9f50cb4efb7e036d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27ff6861f5f25d46",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //img[@src=\"https://ds.rokomari.store/rokomari110/people/2222ed505a94_1.jpg\"] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.7.2', revision: '4d4020c3b7'\nSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.75, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\User\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50525}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50525/devtoo..., se:cdpVersion: 109.0.5414.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f7b1b2e87c5203f1c6e60d5a312da283",
+      "time" : {
+        "start" : 1674319752445,
+        "stop" : 1674319787912,
+        "duration" : 35467
+      }
+    } ]
+  }
+}

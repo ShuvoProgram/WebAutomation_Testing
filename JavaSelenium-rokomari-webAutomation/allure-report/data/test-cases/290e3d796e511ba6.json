@@ -1,0 +1,110 @@
+{
+  "uid" : "290e3d796e511ba6",
+  "name" : "Writer Page Testing",
+  "fullName" : "testclass.ScrollAndNextTesting.scrollAndNextpageTesting",
+  "historyId" : "c2620ee8cc214d49d773301b2f69b369",
+  "time" : {
+    "start" : 1674466414197,
+    "stop" : 1674466441930,
+    "duration" : 27733
+  },
+  "description" : "Writer Page Testing --Allure",
+  "descriptionHtml" : "<p>Writer Page Testing --Allure</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1674466410036,
+      "stop" : 1674466413920,
+      "duration" : 3884
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Writer Page Testing --Allure",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9538db57d8820fe1",
+      "name" : "Writer PageTesting",
+      "source" : "9538db57d8820fe1.png",
+      "type" : "image/png",
+      "size" : 281770
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1674466441977,
+      "stop" : 1674466447703,
+      "duration" : 5726
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclass.ScrollAndNextTesting"
+  }, {
+    "name" : "testClass",
+    "value" : "testclass.ScrollAndNextTesting"
+  }, {
+    "name" : "testMethod",
+    "value" : "scrollAndNextpageTesting"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclass.ScrollAndNextTesting"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SCKABHO"
+  }, {
+    "name" : "thread",
+    "value" : "9200@DESKTOP-SCKABHO.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "290e3d796e511ba6.json",
+  "parameterValues" : [ ]
+}

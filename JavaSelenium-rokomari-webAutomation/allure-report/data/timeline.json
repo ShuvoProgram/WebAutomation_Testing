@@ -1,0 +1,177 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SCKABHO",
+    "children" : [ {
+      "name" : "5424@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "quitBrowser",
+        "uid" : "c4c072423de3ccc0",
+        "parentUid" : "0da6c1c8d613a1a5dd4ffad0bca7f14b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674471511473,
+          "stop" : 1674471511479,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0da6c1c8d613a1a5dd4ffad0bca7f14b"
+    }, {
+      "name" : "4316@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "Login Testing",
+        "uid" : "e05b1b44d32fae3a",
+        "parentUid" : "4ccf8984a67fe8c3a3a1b569fc866bb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674470739217,
+          "stop" : 1674470763040,
+          "duration" : 23823
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ccf8984a67fe8c3a3a1b569fc866bb8"
+    }, {
+      "name" : "7716@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "quitBrowser",
+        "uid" : "27148dc9a1d51669",
+        "parentUid" : "4579f27370e58c00fe3608df3fc26c59",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674384232248,
+          "stop" : 1674384232251,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4579f27370e58c00fe3608df3fc26c59"
+    }, {
+      "name" : "4900@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "scrollTesting",
+        "uid" : "27ff6861f5f25d46",
+        "parentUid" : "7a15df7084c043f9a88a482fae5e03ce",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674319752445,
+          "stop" : 1674319787912,
+          "duration" : 35467
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a15df7084c043f9a88a482fae5e03ce"
+    }, {
+      "name" : "5500@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "Book add into card Testing",
+        "uid" : "8bb1cacf1c2b1002",
+        "parentUid" : "4d350eb6fe59eeca66b6657e230af9d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674416090679,
+          "stop" : 1674416116058,
+          "duration" : 25379
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "writerSelectDropDown",
+        "uid" : "6b211686db0f10a0",
+        "parentUid" : "4d350eb6fe59eeca66b6657e230af9d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674416180860,
+          "stop" : 1674416208562,
+          "duration" : 27702
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Card Icon Testing",
+        "uid" : "b40822e3e4ba17dd",
+        "parentUid" : "4d350eb6fe59eeca66b6657e230af9d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674416149144,
+          "stop" : 1674416174125,
+          "duration" : 24981
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d350eb6fe59eeca66b6657e230af9d9"
+    }, {
+      "name" : "16372@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "Writer Page Testing",
+        "uid" : "badba94a6ccb06dc",
+        "parentUid" : "3e004ad567c404c2235a49d72e583613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674467131380,
+          "stop" : 1674467172385,
+          "duration" : 41005
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e004ad567c404c2235a49d72e583613"
+    }, {
+      "name" : "19804@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "Signup Testing",
+        "uid" : "c48f694fb0db56ef",
+        "parentUid" : "36da40ee6c44395c3c2d84584397dc78",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674473761087,
+          "stop" : 1674473779816,
+          "duration" : 18729
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "36da40ee6c44395c3c2d84584397dc78"
+    }, {
+      "name" : "12436@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "addBookCard",
+        "uid" : "6652b51413e5d48e",
+        "parentUid" : "d125c1f4cfa6d5ca78f508d830809695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1674327417448,
+          "stop" : 1674327452646,
+          "duration" : 35198
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d125c1f4cfa6d5ca78f508d830809695"
+    }, {
+      "name" : "18748@DESKTOP-SCKABHO.main(1)",
+      "children" : [ {
+        "name" : "signupTesting",
+        "uid" : "5f7b12cb19cf233c",
+        "parentUid" : "2e4465f1129ff525e3adaf5a80bc2db6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1674476522623,
+          "stop" : 1674476555655,
+          "duration" : 33032
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e4465f1129ff525e3adaf5a80bc2db6"
+    } ],
+    "uid" : "b0fd78a13e33b2877cd977b48ca4b3ea"
+  } ]
+}
